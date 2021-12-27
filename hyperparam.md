@@ -106,8 +106,9 @@ ResGCN is a network consisting of multiple GCN layers which are consecutively ti
 * Searched values of hyperparameters
 
   | **Hyperparameter** | **Bitcoin-Alpha** | **Bitcoin-OTC** | **Wikipedia** | **Slashdot** | **Epinions** |
-      | :---: | :---: | :---: | :---: | :---: | :---: |
+  | :---: | :---: | :---: | :---: | :---: | :---: |
   | `lambda` | 4 | 4 | 5 | 3 | 6 |
+
 
 ### Optimizer Information
 All methods except for SRWR used the logistic classifier for the sign prediction task at the final stage, which are trained by the Adam optimizer with the following parameters:
