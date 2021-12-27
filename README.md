@@ -18,8 +18,6 @@ We also provide the time complexity analysis of SidNet, showing SidNet is linear
 * **Experiments.** Extensive experiments show that SidNet effectively learns node representations of signed social graphs for link sign prediction, giving at least 3.3% higher accuracy than the state-of-the-art models in real datasets.
 
 
-
-
 ## Prerequisites
 * python 3.6+
 * torch 1.5.0
@@ -178,4 +176,17 @@ python3 -m evaluator \
 |`input-home`|  directory where a trained model is stored | ../output |
 |`dataset`| dataset name | BITCOIN_ALPHA |
 |`gpu-id`| gpu id | 0   |
+
+### Information on Competitors
+We used and referred to the codes of competitors, which are downloadable at the following links:
+* SRWR: https://datalab.snu.ac.kr/srwr
+* APPNP: https://github.com/klicperajo/ppnp
+* ResGCN: https://github.com/lightaime/deep_gcns_torch 
+* SIDE: https://datalab.snu.ac.kr/side
+* SLF: https://github.com/WHU-SNA/SLF
+* SGCN: https://github.com/benedekrozemberczki/SGCN
+* SNEA: https://github.com/liyu1990/snea
+
+You can check the information on searched ranges and values of hyperparameters of each method at [here]().
+
 
