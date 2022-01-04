@@ -179,7 +179,7 @@ python3 -m evaluator \
 
 ### Information on Competitors
 We used and referred to the codes of competitors, which are downloadable at the following links:
-* SRWR: https://datalab.snu.ac.kr/srwr
+* SRWR: https://github.com/jinhongjung/srwr
 * APPNP: https://github.com/klicperajo/ppnp
 * ResGCN: https://github.com/lightaime/deep_gcns_torch 
 * SIDE: https://datalab.snu.ac.kr/side
