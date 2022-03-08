@@ -187,6 +187,3 @@ We used and referred to the codes of competitors, which are downloadable at the 
 * SGCN: https://github.com/benedekrozemberczki/SGCN
 * SNEA: https://github.com/liyu1990/snea
 
-You can check the information on searched ranges and values of hyperparameters of each method at [here](https://github.com/snudatalab/SidNet/blob/master/hyperparam.md).
-
-
