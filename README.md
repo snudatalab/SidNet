@@ -1,6 +1,9 @@
 # SidNet
 
 This is a PyTorch implementation of **Signed Diffusion Network**.
+- Signed random walk diffusion for effective representation learning in signed graphs, Jinhong Jung, Jaemin Yoo, and U Kang, PLoS ONE 16(8): e0256187 [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265001)
+- See [[this arxiv version]](https://arxiv.org/abs/2012.14191) if you want better readability.
+
 
 ## Overview
 How can we model node representations to accurately infer the signs of missing edges in a signed social graph?
