@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of **Signed Diffusion Network**.
 - Signed random walk diffusion for effective representation learning in signed graphs, Jinhong Jung, Jaemin Yoo, and U Kang, PLoS ONE 16(8): e0256187 [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265001)
-- See [[this arxiv version]](https://arxiv.org/abs/2012.14191) for better readability.
+- See [[its arxiv version]](https://arxiv.org/abs/2012.14191) for better readability.
 
 
 ## Overview
